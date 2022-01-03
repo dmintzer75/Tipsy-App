@@ -15,7 +15,9 @@ This project was based on the IOS-Bootcamp-2021 from Angela Yu.
 * Example of creating segues and using them inside. 
 * Model-View-Controller (MVC) approach was used. 
 
-![alt text](https://ibb.co/4TwFXNH)
 
-https://ibb.co/4TwFXNH
-https://ibb.co/0nmv8b9
+<p align="center">
+  <img src="https://github.com/dmintzer75/Tipsy-App/blob/main/Screen%20Shot%202022-01-03%20at%2016.22.49.png" width="200">
+  <img src="https://github.com/dmintzer75/Tipsy-App/blob/main/Screen%20Shot%202022-01-03%20at%2016.22.57.png" width="200">
+  
+</p>
