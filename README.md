@@ -3,6 +3,12 @@
 
 #  Tipsy App
 
+<p align="center">
+   <img src="https://github.com/dmintzer75/Tipsy-App/blob/main/Screen%20Shot%202022-01-03%20at%2016.22.57.png" width="200">
+  <img src="https://github.com/dmintzer75/Tipsy-App/blob/main/Screen%20Shot%202022-01-03%20at%2016.22.49.png" width="200">
+  
+</p>
+
 ## Objective
 
 Of a total bill, calculate how much each person has to pay of it. First the app will ask for: total bill, tip percentage, number of persons paying the bill. When clicking calculate, another screen will show how much each person has to pay.
@@ -16,8 +22,3 @@ This project was based on the IOS-Bootcamp-2021 from Angela Yu.
 * Model-View-Controller (MVC) approach was used. 
 
 
-<p align="center">
-  <img src="https://github.com/dmintzer75/Tipsy-App/blob/main/Screen%20Shot%202022-01-03%20at%2016.22.49.png" width="200">
-  <img src="https://github.com/dmintzer75/Tipsy-App/blob/main/Screen%20Shot%202022-01-03%20at%2016.22.57.png" width="200">
-  
-</p>
